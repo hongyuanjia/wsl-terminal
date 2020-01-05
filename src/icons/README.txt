@@ -1,2 +1,1 @@
-Downloaded from http://www.iconfont.cn/.
-Color: #909090
+Downloaded from http://www.iconarchive.com and https://neovim.io/
